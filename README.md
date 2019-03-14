@@ -1,7 +1,4 @@
-Assignment 1: Responsive Bootstrap Redesign
-========================
 
-## Introduction
 This project repository contains the redesign of a commercial webpage (http://www.meiheongyuendessert.com.sg) using responsive web framework Bootstrap. The scope of redesign is limited to the following:
 ```
 - Front page that shows the home page of the site. It introduces about the company (about
@@ -20,14 +17,14 @@ more about franchise opportunity with the company.
 )
 
 ### Updated Webpage
-Available from view at: https://hopyoprop.github.io/ICT1004
+Available for view at: https://hopyoprop.github.io/ICT1004
 
 ## Technologies Used
 - Bootstrap
 - Javascript
-- Custom CSS
+- Custom CSS with Afela Web Templates
 
 ## Prerequisites
 - Web Browser with Javascript enabled
 
-Done for requirements of module ICT1004: Web System & Technologies
+This website was developed in partial fulfilment of the Singapore Institute of Technology (SIT) module: ICT1004 - Web Systems and Technologies
