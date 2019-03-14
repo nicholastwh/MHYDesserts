@@ -18,7 +18,7 @@ more about franchise opportunity with the company.
 )
 
 ### Updated Webpage
-Available for view at: https://nicholastwh.github.io/MHYDesserts/
+Available for view at: https://nicholastwh.github.io/MHYDesserts/ or https://hopyoprop.github.io/ICT1004/
 
 ## Technologies Used
 - Bootstrap
