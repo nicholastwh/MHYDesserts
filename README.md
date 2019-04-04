@@ -1,4 +1,4 @@
-# MHYDesserts
+# ICT1004: Responsive Web Design
 
 This project repository contains the redesign of a commercial webpage (http://www.meiheongyuendessert.com.sg) using responsive web framework Bootstrap. The scope of redesign is limited to the following:
 ```
