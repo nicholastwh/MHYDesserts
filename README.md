@@ -30,4 +30,4 @@ Available for view at: https://nicholastwh.github.io/MHYDesserts/
 ## Prerequisites
 - Web Browser with Javascript enabled
 
-This website was developed in partial fulfilment of the Singapore Institute of Technology (SIT) module: ICT1004 - Web Systems and Technologies
+This website was developed together with other team members in partial fulfilment of the Singapore Institute of Technology (SIT) module: ICT1004 - Web Systems and Technologies
