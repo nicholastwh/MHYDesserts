@@ -1,5 +1,7 @@
-# ICT1004: Responsive Web Design
+ICT1004: Responsive Web Design
+========================
 
+### Introduction
 This project repository contains the redesign of a commercial webpage (http://www.meiheongyuendessert.com.sg) using responsive web framework Bootstrap. The scope of redesign is limited to the following:
 ```
 - Front page that shows the home page of the site. It introduces about the company (about
@@ -23,7 +25,7 @@ Available for view at: https://nicholastwh.github.io/MHYDesserts/
 ## Technologies Used
 - Bootstrap
 - Javascript
-- Custom CSS with Afela Web Templates
+- Custom CSS
 
 ## Prerequisites
 - Web Browser with Javascript enabled
